@@ -103,13 +103,29 @@ server.listen(8000,"127.0.0.1",()=>{
   console.log("listining to the port no 8000");
 });
 ;
-server.listen333(8000,"127.0.0.1",()=>{
+
+server.listen3(8000,"127.0.0.1",()=>{
   console.log("listining to the port no 8000");
 });
 server.listen4(8000,"127.0.0.1",()=>{
   console.log("listining to the port no 8000");
 });
 
-server.listen44(8000,"127.0.0.1",()=>{
-  console.log("listining to the port no 8000");
-});
+// okkk333
+// okkkkk//
+// ok444//
+
+//ok2//
+//okkkkkkk//
+//okkkkkkk//
+
+//okkkkkkk//
+//okkkkkkk//
+//okkkkkkk//
+//okkkkkkk//
+//okkkkkkk//
+
+
+//ok4//
+
+//ok5//
