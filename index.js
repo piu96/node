@@ -107,3 +107,6 @@ server.listen2(8000,"127.0.0.1",()=>{
   console.log("listining to the port no 8000");
 });
 ;
+server.listen3(8000,"127.0.0.1",()=>{
+  console.log("listining to the port no 8000");
+});
