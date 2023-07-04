@@ -99,39 +99,4 @@ server.listen(8000,"127.0.0.1",()=>{
   console.log("listining to the port no 8000");
 });
 
-server.listen(8000,"127.0.0.1",()=>{
-  console.log("listining to the port no 8000");
-});
-;
 
-server.listen3(8000,"127.0.0.1",()=>{
-  console.log("listining to the port no 8000");
-});
-server.listen4(8000,"127.0.0.1",()=>{
-  console.log("listining to the port no 8000");
-});
-
-// okkk333
-// okkkkk//
-// ok444//
-
-//ok2//
-//okkkkkkk//
-//okkkkkkk//
-
-//okkkkkkk//
-//okkkkkkk//
-//okkkkkkk//
-//okkkkkkk//
-//okkkkkkk//
-
-
-//ok4//
-
-//ok5//
-
-//ok 6324587y658736489734967//
-//0987565456523475237598347689576834689359346785935863642374//
-//ok//
-//ok//
-//ok test node 2//
